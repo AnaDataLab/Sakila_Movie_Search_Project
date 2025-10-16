@@ -15,8 +15,3 @@ This Python project allows users to search movies in the Sakila MySQL database, 
 - Matplotlib
 - os
 - dotenv
-
-## How to Run
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/AnaDataLab/Sakila_Movie_Search_Project.git
